@@ -1,4 +1,3 @@
 # Todos
 
-- fdsa
-- fas
+- Planning
