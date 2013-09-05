@@ -40,4 +40,17 @@
   *Adam* Executive of A company
   - Tech Savvy person who likes to try new things
   - Project manager, managing multiple projects at once
+  - very busy
+  - Problems: Don't know what type impact his projects have
+  -  don't know what's going on with his team
+  - Solutions: Triggio will notify Adam when company critical actions are achieved as a result of his projects
+  - Adam will be notify his teams make progress
   - 
+  *Daniel* Sales person
+  - He travels very often, rarely in office
+  - he doesn't understand anything too technical, knows how to use windows, has a smartphone (likely Blackberry),
+  - always in important meetings with external personal
+  - Lots of emails 
+  - outgoing / friendly
+  - problems: don't know what's happening *in* office (sales target, other progress of other sales persons in the company, what other teams are working on)
+  - solution: notify danile with updates depending on his current environment (quiet during a meeting; or loud if he is commuting)
