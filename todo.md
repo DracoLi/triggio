@@ -1,7 +1,7 @@
 # Todos
 
-1. Finish user profile - **Maggie** - *September 6th*
-2. Competitor Analysis - **Draco** - *September 8th*
+1. Finish user profile - **Maggie** - *DONE*
+2. Competitor Analysis - **Draco** - *DONE*
 3. Brainstorm key features - **Both** - *September 9th*
 4. Use Cases - **Together** - *Next Meeting*
 5. Survey startups and find out how are they currently staying connected - **TBD**
@@ -30,8 +30,23 @@ bring awareness; background notification, without being intrusive to your daily 
   - /# of saves - usefulness
 
 ##Competitors
-   - Geckoboard
-   - Google Analytics
+###Geckoboard
+ **Overview**: Geckoboard helps companies keep track of their progress and present it as meaningful data. It look at things like sales, page views, unique vistors, etc.
+ **Benefits**: 
+ 
+   -Good visual presentation to summarize all company metrics
+   -Great use of graphs, colours, and fonts
+   -Access from all devices
+   -Allows sharing with different accounts
+   -Allow modifications by devs
+   -Real time
+ 
+ **Cons**:
+ 
+   - need to log on to monitor changes
+   - presents lots of information at once - crowded
+   - only show real time data
+ 
    
 *question: how do small and medium size companies track sales and share with the team?*
 
@@ -62,9 +77,9 @@ bring awareness; background notification, without being intrusive to your daily 
   - Tech Savvy person who likes to try new things
   - Project manager, managing multiple projects at once
   - very busy
-  - Problems: Don't know what type impact his projects have
-  -  don't know what's going on with his team
-  - Solutions: Triggio will notify Adam when company critical actions are achieved as a result of his projects
+  - **Problems**: Don't know what type impact his projects have
+  - don't know what's going on with his team
+  - **Solutions**: Triggio will notify Adam when company critical actions are achieved as a result of his projects
   - Adam will be notify his teams make progress
  
 *Daniel*: Sales person
@@ -73,5 +88,31 @@ bring awareness; background notification, without being intrusive to your daily 
   - always in important meetings with external personal
   - Lots of emails 
   - outgoing / friendly
-  - problems: don't know what's happening *in* office (sales target, other progress of other sales persons in the company, what other teams are working on)
-  - solution: notify danile with updates depending on his current environment (quiet during a meeting; or loud if he is commuting)
+  - **Problems**: don't know what's happening *in* office (sales target, other progress of other sales persons in the company, what other teams are working on)
+  - **Solution**: notify danile with updates depending on his current environment (quiet during a meeting; or loud if he is commuting)
+
+*Samantha*: CEO
+ - Oversea multiple divisions
+ - Always in important meetings with internal and external personal
+ - Travels frequently
+ - Very Busy
+ - Likes to have short meetings
+ - Delegate tasks to team members
+ - **Problems**: need to keep track the progress of multiple departments
+ - Need real time information to understand where the company is heading
+ - **Solutions**: Consolidate progress made by different departments
+ - all data is up-to-date as it is synced to the database
+ - summarizes progress
+
+*Victoria*: Intern
+ - Know very little about the company or the different departments
+ - trying to learn alot within a short amount of period
+ - may or may not be tech savvy - probably own a mac. Definitely own a smartphone
+ - **Problems**: feel isolated from people she doesn't work with
+ - don't know what are the impact of her actions
+ - don't know the progress of the company
+ - **Solutions**: help her feel connected to all the departments through up-to-date notifications
+ - notifications help her understand the impact of her work
+ - notifications help her understand the progress of the company
+
+
