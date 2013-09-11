@@ -11,4 +11,6 @@
 ### Location
 
 ### Agenda
+  - Use Case
+  - Brainstorming Session
 
