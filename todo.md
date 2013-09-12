@@ -100,6 +100,7 @@ bring awareness; background notification, without being intrusive to your daily 
  - Delegate tasks to team members
  - **Problems**: need to keep track the progress of multiple departments
  - Need real time information to understand where the company is heading
+ - too much information to keep up with
  - **Solutions**: Consolidate progress made by different departments
  - all data is up-to-date as it is synced to the database
  - summarizes progress
