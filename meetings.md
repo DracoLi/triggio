@@ -1,10 +1,14 @@
 # Mettings
 
-## Sept 4th
+## Sept 15th
 
-### Location
+### Location - starbucks passed Sobey's on Mount Pleasant
 
 ### Agenda
+1. summary for Feed
+2. integration
+3. landing page planning
+4. Wireframes
 
 ## Sept 11th
 
@@ -51,9 +55,11 @@ Feed
 - No Scrolling
 
 Features to Implement:
-1. summarize information on the feed
-2. Admin account for changing sounds
-3. option to upload sounds through all accounts
+  1. summarize information on the feed
+  2. integrations: Salesforce
+  3. Admin account for changing sounds
+  4. option to upload sounds through all accounts
+  5. User driven data
 
 Idea Bucket:
 - Allow people to "favour/like" events. Popular events will reply if there is enough demand 
