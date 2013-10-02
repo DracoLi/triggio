@@ -1,6 +1,6 @@
 # Mettings
 
-## Sept 19th
+## Sept 23rd
 
 ### Location - Toronto Reference Library
 ### Time - 6pm
@@ -9,6 +9,76 @@
 1. Review wireframes
 2. Landing page
 
+###Notes
+####Triggio design:
+
+#####Main features:
+1. summary board
+2. feed
+3. sound reply
+4. icon/heading
+
+#####Manipulation
+	For Summary Board: manipulating the location of the summary board
+	For Feed: Color coded vs. not colour coded
+	For Sound reply: icon (2 types) vs no icons
+	For icon/heading: main focus is triggio, main focus is the company, 
+
+
+#####Final Pick:
+summary board: on the bottom
+for feed:  colour coding as an option
+sound reply: hover
+heading: company feed board, brought to you by Triggio
+
+
+Saas getting started page for integration - Firebase
+
+####Next step: setting up sound interface
+#####tasks: 
+- upload sound
+- select sound for a specific identifier
+- sound list
+- search button
+
+#####sound control
+- admin only
+- grant access - to everyone - final decision
+- voting - no voting
+
+- dashboard or no dashboard…..
+
+#####dashboard:
+- sound management - separate from rest of settings
+- batching
+- account management - password, email, personal info
+- color coding
+- integration for preset sites - add and revoke
+- editing company information
+- user management - managing list of users: grant and revoke access
+- multiple admin
+- grant admin access and revoke admin access
+
+- grant individuality - have profile icon - no name
+
+####Landing Page
+#####goal: 
+- explain what triggio is about - people don't know what triggio is
+	 - demos - global newsfeed
+	- text - keep it clean and at a minimal
+	- images - maybe animated
+	 - videos - NOOO
+	- use cases
+	- sounds -  MUST
+
+- examples:
+	- dropbox
+	- facebook
+
+- easy to sign up - prominent
+- sign in 
+
+	
 ## Sept 15th
 
 ### Location - starbucks passed Sobey's on Mount Pleasant
